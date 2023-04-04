@@ -31,5 +31,5 @@ Foco em estudar todo dia e os objetivos serão alcançados!
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BaimaCaio&theme=tokyonight_duo&locale=pt-br)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BaimaCaio&theme=midnight-purple&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
  
