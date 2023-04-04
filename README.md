@@ -33,8 +33,10 @@ Foco em estudar todo dia e os objetivos serão alcançados!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BaimaCaio&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://streak-stats.demolab.com?user=BaimaCaio&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak">
+<div style="text-align: center;">
+    <a href="https://git.io/streak-stats" target="_blank">
+        <img src="https://streak-stats.demolab.com?user=BaimaCaio&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak">
+    </a>
 </div>
 
  
